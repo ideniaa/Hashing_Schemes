@@ -1,14 +1,4 @@
-/*  Program: Project 1
-    Author: Idenia Ayala
-    Class: CSCI 230
-    Date: 03/16/2020
-    Description:
 
-    I certify that the code below is my own work.
-
-    Exception(s): N/A
-
-*/
 #include "ChainHashing.h"
 #include "DoubleHashing.h"
 #include "LinearProbeHashing.h"
